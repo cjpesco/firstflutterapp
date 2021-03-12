@@ -1,6 +1,18 @@
 # firstflutterapp
 
-A new Flutter project.
+First Flutter Apps
+
+Learning Flutter basics
+In this project I learned How Scaffold works
+put up an Appbar with actions, Body with Custom Button using Inkwell or Gesture Detector
+added BottomNavgiationBar that has Bottom Navigation Bar Items
+lastly FloatingActionButton
+
+Scaffold
+Appbar - actions - IconButtons
+Body - custom Button / Inkwell for simple buttons / GestureDetector for more
+BottomNavigationBar - Bottom Navigation Bar Items
+floatingActionButton
 
 ## Getting Started
 
